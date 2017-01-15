@@ -1,0 +1,2 @@
+# Bluetooth-ArtBot
+ArtBot is a Bluetooth controlled tricycle drawing robot that drags a sharpie behind it  to leave marks behind its path. It can draw in straight lines or in concentric curves with  responsive control from Adafruit’s Bluefruit SPI mobile app for Android or iOS. A 9V battery  powers an Arduino microcontroller and the bluetooth module while a 2 cell LiPo battery  powers a motor shield connected to the Arduino and two stepper motors which turn the  wheels allowing smooth, consistent rolling on the drawing surface.
